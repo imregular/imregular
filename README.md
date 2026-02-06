@@ -1,9 +1,14 @@
-# Hi there, I'm @imregular 👋
+# Hi there, I'm anurag aka @imregular 👋
 
 ## 🚀 About Me
 I'm a passionate Full Stack Developer and Machine Learning enthusiast who loves building innovative solutions that solve real-world problems. I specialize in creating intelligent applications that blend modern web technologies with AI/ML capabilities.
 
 ## 💼 Featured Projects
+
+### ☁️ Cloud AI Storage
+An intelligent cloud storage solution powered by AI for smart file organization and management.
+- **Tech Stack:** Cloud Services, AI Integration
+- **Highlights:** Automated Organization, Secure Storage, AI-Powered Search
 
 ### 🤖 [ANN Churn Prediction App](https://github.com/imregular/ANN_churn_prediction_App)
 Customer churn prediction using Deep Learning with TensorFlow and Keras. This model predicts whether customers will exit based on various features, helping businesses retain valuable customers.
@@ -14,11 +19,6 @@ Customer churn prediction using Deep Learning with TensorFlow and Keras. This mo
 A modern blogging platform built with TypeScript, enabling users to create, publish, and share their stories with a beautiful, responsive interface.
 - **Tech Stack:** TypeScript, React, Node.js
 - **Highlights:** Authentication, Rich Text Editor, Responsive Design
-
-### ☁️ Cloud AI Storage
-An intelligent cloud storage solution powered by AI for smart file organization and management.
-- **Tech Stack:** Cloud Services, AI Integration
-- **Highlights:** Automated Organization, Secure Storage, AI-Powered Search
 
 ### 🔗 URL Shortener
 A fast and reliable URL shortening service with analytics and custom short links.
@@ -79,10 +79,8 @@ Real-time chat application enabling seamless communication with modern features.
 - Passionate about creating user-centric solutions
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 💼 [LinkedIn](www.linkedin.com/in/anurag-sharma-36b43724b)
+- 📧 Email: anuragspcm@gmail.com
 
 ---
 
