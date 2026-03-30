@@ -34,10 +34,7 @@ A modern blogging platform built with TypeScript, enabling users to create, publ
 - **Tech Stack:** TypeScript, React, Node.js
 - **Highlights:** Authentication, Rich Text Editor, Responsive Design
 
-### 💬 [YouChat](https://github.com/imregular/YOUCHAT)
-Real-time chat application enabling seamless communication with modern features.
-- **Tech Stack:** JavaScript, WebSockets
-- **Highlights:** Real-time Messaging, User Authentication
+
 
 ## 🛠️ Tech Stack
 
